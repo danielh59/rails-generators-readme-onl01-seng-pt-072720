@@ -36,6 +36,7 @@ require 'tux'
 
 group :development, :test do
   gem 'byebug'
+  gem 'rake'
   gem 'rspec-rails'
   gem 'capybara'
   gem 'database_cleaner'
